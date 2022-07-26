@@ -7,5 +7,5 @@ sudo apt-get install libdbusmenu-gtk4
 sudo apt-get install libgconf-2-4
 sudo dpkg -i libappindicator1_0.4.92-8_amd64.deb
 sudo dpkg -i forticlient_vpn_7.0.0.0018_amd64.deb
-sudo apt --fix-broken install
+
 
